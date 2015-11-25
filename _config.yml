@@ -1,7 +1,7 @@
 name: Breaking Recaps
 favicon: null
-layout_spectrum: 0.7124634035862982
-typography_spectrum: 0.30556452786549926
+layout_spectrum: 1
+typography_spectrum: 0
 title: Breaking Recaps
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.7689489936456084
-  lightness: 0.17535337805747986
-  saturation: 0.20344369276426733
-  rhythmicContrast: 0.8405815365258604
+    - '#757575'
+    - '#fbfbff'
+    - '#0b4f6c'
+    - '#20bf55'
+    - '#a9a6b0'
+  brandStrength: 0.625
+  lightness: 0.3125
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
